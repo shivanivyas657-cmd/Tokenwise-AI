@@ -1,8 +1,6 @@
 # TokenWise AI
 
 ### Team Codex AI
-
-**Team Members:**
 - Shivani Vyas
 
 ## About Project
